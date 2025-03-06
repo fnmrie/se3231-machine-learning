@@ -1,0 +1,25 @@
+1. Why did you choose this dataset?
+
+I chose this dataset because I frequently play games myself, 
+and I was curious to explore whether gaming habits could influence 
+academic performance. By analyzing the relationship between different factors 
+and students' grades, I aimed to see if a predictive model could be created to 
+forecast academic success. Additionally, I selected this dataset because the inputs 
+were already in numerical format, making it easier to process and apply machine learning techniques.
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+
+After applying linear regression to the dataset, the results suggest that the model 
+can predict students' grades to some extent, but it is not perfectly accurate. In simpler terms, 
+while the model does provide some insights, it is not highly accurate in predicting grades. 
+This suggests that academic performance is affected by many other factors not included in the dataset, 
+such as motivation, study methods, sleep quality, and personal circumstances. If we want a more reliable 
+model, we might need to include additional relevant data.
+
+3. How relevant is linear regression today?
+
+Linear regression remains highly relevant today, particularly in fields like finance, healthcare, education, 
+and business analytics. It serves as a foundational technique for understanding relationships between 
+variables and making predictions. Despite the rise of more complex machine learning models, linear regression 
+is still widely used due to its simplicity, interpretability, and efficiency, making it a valuable tool for 
+analyzing trends and making data-driven decisions.
