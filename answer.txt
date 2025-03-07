@@ -9,12 +9,18 @@ were already in numerical format, making it easier to process and apply machine 
 
 2. What is your conclusion upon conducting linear regression on this dataset?
 
-After applying linear regression to the dataset, the results suggest that the model 
-can predict students' grades to some extent, but it is not perfectly accurate. In simpler terms, 
-while the model does provide some insights, it is not highly accurate in predicting grades. 
-This suggests that academic performance is affected by many other factors not included in the dataset, 
-such as motivation, study methods, sleep quality, and personal circumstances. If we want a more reliable 
-model, we might need to include additional relevant data.
+After conducting both Single and Multiple Linear Regression on the dataset, the results suggest
+that gaming behavior alone is a weak predictor of student grades. The Single Linear Regression model 
+showed that "Playing Hours" had a very low correlation with grades, meaning other factors play a more 
+significant role in academic performance. However, when we introduced multiple factors in the Multiple 
+Linear Regression model, the predictive accuracy improved significantly. This indicates that a combination 
+of personal, school, and family-related factors better explains a student's academic performance rather 
+than just gaming habits.
+
+Despite this improvement, the model is still not perfectly accurate suggesting that other unexplored factors 
+such as study habits, sleep quality, mental health, and motivation could also be crucial in determining grades. 
+We may need to incorporate additional variables and possibly explore more advanced machine learning techniques
+to build a more reliable predictive model.
 
 3. How relevant is linear regression today?
 
